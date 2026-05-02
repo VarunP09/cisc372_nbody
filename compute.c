@@ -3,6 +3,7 @@
 #include "vector.h"
 #include "config.h"
 
+
 //compute: Updates the positions and locations of the objects in the system based on gravity.
 //Parameters: None
 //Returns: None
